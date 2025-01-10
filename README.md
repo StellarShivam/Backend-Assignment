@@ -73,10 +73,21 @@ The application will start running on `http://localhost:3002` by default.
 
 ---
 
+## API Endpoints
+
+Below are the key API endpoints provided by the application:
+
+### Fetch Data
+- https://228e267d-68c7-4094-9fca-c84639453887.e1-us-east-azure.choreoapps.dev/stats?coin=bitcoin : Fetch latest stored bitcoin data.
+- https://228e267d-68c7-4094-9fca-c84639453887.e1-us-east-azure.choreoapps.dev/stats?coin=matic-network : Fetch latest stored matic-network data.
+- https://228e267d-68c7-4094-9fca-c84639453887.e1-us-east-azure.choreoapps.dev/stats?coin=ethereum : Fetch latest stored ethereum data.
+- https://228e267d-68c7-4094-9fca-c84639453887.e1-us-east-azure.choreoapps.dev/deviation?coin=bitcoin : Return the standard deviation of the price of the requested cryptocurrency
+
 ## Contact
 
 For questions or support, feel free to reach out:
 
 - **Email**: [shivam.anand.216@gmail.com]
+
 
 
