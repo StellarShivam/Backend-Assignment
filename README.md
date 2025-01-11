@@ -5,6 +5,8 @@ This project is a backend application built using Node.js and Express.js. It is 
 ## Deployed Project
 You can access the deployed backend https://228e267d-68c7-4094-9fca-c84639453887.e1-us-east-azure.choreoapps.dev/.
 
+Alternate Link if above gets down https://backend-assignment-li5e.onrender.com/
+
 ---
 
 ## Features
